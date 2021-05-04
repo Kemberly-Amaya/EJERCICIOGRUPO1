@@ -1,0 +1,10 @@
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csprojAssemblyReference.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.Form1.resources
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.Properties.Resources.resources
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csproj.GenerateResource.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.exe.config
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.exe
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.pdb
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.exe
+C:\Users\kembe\OneDrive\Documentos\PrograI\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.pdb
